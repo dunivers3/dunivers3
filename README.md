@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Duncan
-- 👀 I’m interested in software development, data science and cyber-security
-- 🌱 I’m currently learning full-stack javascript, python, ethical hacking and web design
-- 💞️ I’m looking to collaborate on cyber-security projects
+- 👋 Hello, I’m Duncan
+- 👀 I’m a Software Engineer, Data Analyst and Cyber-Security Expert
+- 🌱 I’m currently learning data science and AI
+- 💞️ I’m looking to collaborate on web app engineering, with #javascript, #react.js, #nodejs as well as cyber-security projects
 - 📫 How to reach me on wangari.dun@gmail.com
 
 <!---
