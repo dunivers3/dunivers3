@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **javascript, node-js, react**
 
-- 📫 How to reach me **dun.duniverse@proton.me**
+- 📫 How to reach me **wangari.dun@gmail.com**
 
 - ⚡ Fun fact **I love to read**
 
