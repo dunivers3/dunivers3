@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_duniverse" target="blank"><img src="https://img.shields.io/twitter/follow/_duniverse?logo=twitter&style=for-the-badge" alt="_duniverse" /></a> </p>
 
-- 🔭 I’m currently working on [My portifolio](https://github.com/dunivers3/duniverseinc-portifolio)
+- 🔭 I’m currently working on [My portifolio](www.duniverse.me)
 
-- 👨‍💻 All of my projects are available at [https://www.duniverseinc.com](https://www.duniverseinc.com)
+- 👨‍💻 All of my projects are available at [https://www.duniverse.me](https://www.duniverse.me)
 
 - 💬 Ask me about **javascript, node-js, react**
 
