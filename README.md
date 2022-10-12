@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/_duniverse" target="blank"><img src="https://img.shields.io/twitter/follow/_duniverse?logo=twitter&style=for-the-badge" alt="_duniverse" /></a> </p>
 
-- 🔭 I’m currently working on [My portifolio](www.duniverse.me)
+- 🔭 I’m currently working on [Kahuna's E-commerce](https://mali-safi.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://www.duniverse.me](https://www.duniverse.me)
+- 👨‍💻 All of my projects are available at [duniverse.me](https://www.duniverse.me)
 
-- 💬 Ask me about **javascript, node-js, react**
+- 💬 Ask me about **javascript, node-js, react-js, express, vim and linux**
 
 - 📫 How to reach me **wangari.dun@gmail.com**
 
